@@ -1,0 +1,25 @@
+/* add your CSS here */
+.card{
+	border: 1px solid grey;
+	width:300px;
+	padding:10px;
+	box-shadow: 5px 5px 5px 0px lightgrey;
+}
+
+.info{
+	border: 1px solid grey;
+	padding: 10px;
+}
+
+.nodotslist{
+	list-style:none;
+	padding:0px;
+}
+
+.fact{
+	font-style:italic;
+}
+
+li span{
+	font-weight:bold;
+}
