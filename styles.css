@@ -1,25 +1,29 @@
 /* add your CSS here */
 .card{
 	border: 1px solid grey;
-	width:300px;
-	padding:10px;
+	width: 300px;
+	padding: 10px;
 	box-shadow: 5px 5px 5px 0px lightgrey;
 }
 
-.info{
+.info {
 	border: 1px solid grey;
 	padding: 10px;
 }
 
-.nodotslist{
-	list-style:none;
-	padding:0px;
+.no-dots-list {
+	list-style: none;
+	padding: 0;
 }
 
-.fact{
-	font-style:italic;
+.fact {
+	font-style: italic;
 }
 
-li span{
-	font-weight:bold;
+li span {
+	font-weight: bold;
+}
+
+.img-cat {
+	margin-bottom: 10px;
 }
